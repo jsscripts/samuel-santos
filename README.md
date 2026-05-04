@@ -58,9 +58,13 @@
 
 ### 🤖 IA & Visão Computacional
 <p>
-  <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Roboflow-8000FF?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="28"/>
+  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logoColor=black"/>
+
+  <img src="https://cdn.simpleicons.org/roboflow/white" width="28"/>
+  <img src="https://img.shields.io/badge/Roboflow-8000FF?style=for-the-badge"/>
+
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
@@ -73,7 +77,9 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+  <img src="https://cdn.simpleicons.org/dbeaver/white" width="28"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
 </p>
 
 ---
