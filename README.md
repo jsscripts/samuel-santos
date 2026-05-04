@@ -101,20 +101,24 @@
 
 ---
 
-<p align="center">
-  🚀 Building real solutions and evolving every day
-</p>
-
 # 💼 Experiência Profissional
 
-**🏢 Instituto de Pesquisas Tecnológicas (IPT)**  
+**🏢 Instituto de Pesquisas Tecnológicas (IPT)**
+*   **Estágio em Desenvolvimento Backend** (1 ano)
+*   Desenvolvimento de sistemas utilizando **C# (.NET)** e **Python**
+*   Implementação de soluções de **IA e Visão Computacional**
+*   Criação de APIs REST com autenticação **JWT**
+*   Manipulação de bancos de dados **MySQL e PostgreSQL**
+*   Automação de processos com **Web Scraping**
 
-- Backend com **C# (.NET) e Python**  
-- Projetos de **IA e Visão Computacional**  
-- APIs REST + JWT  
-- MySQL e PostgreSQL  
-- Web scraping e automação  
-- Linux + Git  
+---
+
+# 🎓 Formação Acadêmica
+
+**🎓 Centro Universitário das Faculdades Metropolitanas Unidas (FMU)**
+*   **Bacharelado em Engenharia de Computação**
+*   Status: 10º Semestre (Fase Final)
+*   Local: São Paulo, SP
 
 ---
 
