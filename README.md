@@ -1,5 +1,3 @@
-# samuel-santos
-
 <h1 align="center">Samuel Santos</h1>
 
 <p align="center">
