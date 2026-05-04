@@ -132,5 +132,5 @@
 
 
 <p align="center">
-  🚀 Building real solutions and evolving every day
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Building+real+solutions+and+evolving+every+day" />
 </p>
