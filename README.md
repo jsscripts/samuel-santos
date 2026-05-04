@@ -78,13 +78,21 @@ Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e
 
 ---
 
-## ⭐ Projetos em Destaque
+## ⭐ Projetos pessoais
 
 ### 💈 Sistema Web para Barbearia
 🔹 Login, sessão e agendamento  
 🔹 Validação de horários em tempo real  
 
 📦 `HTML • CSS • JS • PHP • MySQL`  
+
+### 🤖 Sistema de Reconhecimento Facial com IA
+
+🔹 Detecção e reconhecimento facial utilizando IA  
+🔹 Aplicação de visão computacional em contexto real  
+🔹 Desenvolvimento baseado em conceitos de Machine Learning  
+
+📦 `Python • OpenCV • YOLO • Roboflow • Colab`
 
 ---
 
