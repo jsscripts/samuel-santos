@@ -85,7 +85,6 @@ Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e
 🔹 Validação de horários em tempo real  
 
 📦 `HTML • CSS • JS • PHP • MySQL`  
-🔗 [Ver projeto](https://github.com/SEU_USERNAME/SEU_REPO)
 
 ---
 
@@ -94,7 +93,6 @@ Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e
 🔹 CRUD + paginação dinâmica  
 
 📦 `PHP • JavaScript • MySQL`  
-🔗 [Ver projeto](https://github.com/SEU_USERNAME/SEU_REPO)
 
 ---
 
@@ -103,7 +101,6 @@ Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e
 🔹 Autenticação JWT  
 
 📦 `C# • ASP.NET • PostgreSQL`  
-🔗 [Ver projeto](https://github.com/SEU_USERNAME/SEU_REPO)
 
 ---
 
@@ -112,7 +109,6 @@ Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e
 🔹 Exportação para CSV  
 
 📦 `Python • Selenium • Scrapy`  
-🔗 [Ver projeto](https://github.com/SEU_USERNAME/SEU_REPO)
 
 ---
 
@@ -142,11 +138,6 @@ Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e
 
 ---
 
-## 🌎 Idiomas
-
-🇺🇸 Inglês (Avançado) • 🇪🇸 Espanhol (Intermediário)
-
----
 
 <p align="center">
   🚀 Building real solutions and evolving every day
