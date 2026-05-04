@@ -120,8 +120,8 @@
 ### 🌟 Projetos Pessoais
 | Projeto | Descrição | Stacks | Links |
 | :--- | :--- | :--- | :--- |
-| **Barbariaria Web** | Sistema com login, agendamento e validação de horários em tempo real. | `PHP` `MySQL` `JS` | [Repo](#) |
-| **Reconhecimento Facial** | Detecção e reconhecimento facial com IA aplicada em contextos reais. | `Python` `YOLO` `OpenCV` | [Repo](#) |
+| **Barbariaria Web** | Sistema com login, agendamento e validação de horários em tempo real. | `PHP` `MySQL` `JS` | [Repo](https://github.com/jsscripts/Project_Barber_Academy) |
+| **Reconhecimento Facial** | Detecção e reconhecimento facial com IA aplicada em contextos reais. | `Python` `YOLO` `OpenCV` | [Repo](https://github.com/jsscripts/face-recognition-automotive) |
 
 <br/>
 
