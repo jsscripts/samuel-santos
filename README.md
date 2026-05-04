@@ -1,7 +1,11 @@
 <h1 align="center">Samuel Santos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;C%23+.NET+%7C+Python;IA+%26+Vis%C3%A3o+Computacional;Building+real+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;C%23+.NET+%7C+Python;IA+%26+Vis%C3%A3o+Computacional" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=60&section=footer" />
 </p>
 
 <p align="center">
