@@ -14,13 +14,13 @@
 </p>
 
 ---
-## 🚀 Sobre mim
-
-🎓 Engenharia da Computação (FMU) • 📍 São Paulo  
-
-Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e visão computacional**.
-
-💼 Experiência no **IPT (Instituto de Pesquisas Tecnológicas)** atuando com sistemas inteligentes, backend e análise de dados.
+<p align="center">
+  💻 Desenvolvedor Backend | C# • .NET • Python • APIs  
+  <br/>
+  🤖 Experiência com IA e Visão Computacional  
+  <br/>
+  🚀 Construindo soluções reais com foco em performance e escalabilidade
+</p>
 
 ---
 
