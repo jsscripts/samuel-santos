@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Tecnologias
+# 🧠 Tecnologias
 
 ### 💻 Linguagens
 <p>
@@ -77,7 +77,7 @@
 
 ---
 
-## ⭐ Projetos pessoais
+# ⭐ Projetos pessoais
 
 ### 💈 Sistema Web para Barbearia
 🔹 Login, sessão e agendamento  
@@ -95,7 +95,7 @@
 
 ---
 
-## ⚠️ Projetos desenvolvidos no IPT com código privado por confidencialidade.
+# ⚠️ Projetos desenvolvidos no IPT com código privado por confidencialidade.
 
 ### 📰 Portal de Notícias (ITS-Brasil)
 🔹 Desenvolvimento completo do sistema (site + painel administrativo)  
@@ -122,7 +122,7 @@
 
 📦 `Python • Selenium • Scrapy`
 
-## 💼 Experiência
+# 💼 Experiência Profissional
 
 **🏢 Instituto de Pesquisas Tecnológicas (IPT)**  
 
@@ -135,7 +135,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
