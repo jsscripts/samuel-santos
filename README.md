@@ -95,7 +95,7 @@
 
 ---
 
-# ⚠️ Projetos desenvolvidos no IPT com código privado por confidencialidade.
+# ⚠️ Projetos desenvolvido no IPT (código privado).
 
 ### 📰 Portal de Notícias (ITS-Brasil)
 🔹 Desenvolvimento completo do sistema (site + painel administrativo)  
