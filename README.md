@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:samulipos111@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/samuel-santos-129a1423b">💼 LinkedIn</a>
 </p>
 
