@@ -76,45 +76,6 @@
 
 ---
 
-<h1 align="center">Samuel Santos</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;C%23+.NET+%7C+Python;IA+%26+Vis%C3%A3o+Computacional;Building+real+solutions" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-santos-129a1423b">💼 LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue" />
-</p>
-
----
-
-<p align="center">
-  💻 Desenvolvedor Backend | C# • .NET • Python • APIs  
-  <br/>
-  🤖 Experiência com IA e Visão Computacional  
-  <br/>
-  🚀 Construindo soluções reais com foco em performance e escalabilidade
-</p>
-
----
-
-# 🧠 Tecnologias
-
-### 💻 Linguagens & Backend
-`C#` `.NET` `ASP.NET Core` `Python` `PHP` `JavaScript` `SQL` `JWT`
-
-### 🤖 IA & Visão Computacional
-`YOLO` `OpenCV` `Roboflow` `Google Colab`
-
-### 🛠️ Ferramentas & Bancos
-`MySQL` `PostgreSQL` `MongoDB` `Git` `Linux` `Insomnia` `DBeaver`
-
----
-
 # 🚀 Projetos em Destaque
 
 ### 🌟 Projetos Pessoais
@@ -131,25 +92,6 @@
 | **Portal ITS-Brasil** | Sistema completo de notícias com painel administrativo e CRUD dinâmico. | `PHP` `JS` `MySQL` | 🔒 Privado |
 | **API REST Segura** | Arquitetura em camadas com foco em segurança, testes e gestão de dados. | `C#` `.NET` `PostgreSQL` `Insomnia` `DBeaver` | 🔒 Privado |
 | **Web Scraper** | Automação de navegação e extração massiva de dados para CSV. | `Python` `Selenium` `Scrapy` | 🔒 Privado |
-
----
-
-# 💼 Experiência Profissional
-
-**🏢 Instituto de Pesquisas Tecnológicas (IPT)**
-*   Desenvolvimento Backend com **C# (.NET) e Python**.
-*   Implementação de soluções de **IA e Visão Computacional**.
-*   Construção de APIs REST com autenticação **JWT**.
-*   Gestão de bancos de dados **MySQL e PostgreSQL**.
-*   Automação de processos via **Web Scraping**.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -173,7 +115,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=jsscripts&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
