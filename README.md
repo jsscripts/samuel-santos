@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-santos-129a1423b">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/samuel-santos-129a1423b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center">
