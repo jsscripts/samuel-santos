@@ -88,29 +88,32 @@ Desenvolvedor backend com experiência prática em **APIs, bancos de dados, IA e
 
 ---
 
+## ⚠️ Projetos desenvolvidos em ambiente profissional (IPT) não possuem código público devido a restrições de confidencialidade.
+
 ### 📰 Portal de Notícias (ITS-Brasil)
-🔹 Sistema completo com painel admin  
-🔹 CRUD + paginação dinâmica  
+🔹 Desenvolvimento completo do sistema (site + painel administrativo)  
+🔹 CRUD de notícias com persistência em banco  
+🔹 Paginação e exibição dinâmica de conteúdo  
 
 📦 `PHP • JavaScript • MySQL`  
 
 ---
 
 ### 🔗 API REST (.NET)
-🔹 Arquitetura em camadas  
-🔹 Autenticação JWT  
+🔹 Arquitetura em camadas (Controller, Service, DAO)  
+🔹 Autenticação e segurança com JWT  
+🔹 Integração com banco PostgreSQL  
 
 📦 `C# • ASP.NET • PostgreSQL`  
 
 ---
 
 ### 🤖 Web Scraper Automatizado
-🔹 Extração de dados e imagens  
+🔹 Automação de navegação e extração de dados  
+🔹 Download de imagens e estruturação dos dados  
 🔹 Exportação para CSV  
 
-📦 `Python • Selenium • Scrapy`  
-
----
+📦 `Python • Selenium • Scrapy`
 
 ## 💼 Experiência
 
