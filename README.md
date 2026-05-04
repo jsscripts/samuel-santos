@@ -1,7 +1,7 @@
 <h1 align="center">Samuel Santos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;C%23+.NET+%7C+Python;IA+%26+Vis%C3%A3o+Computacional;Building+real+solutions" />
+  <img src="[https://komarev.com/ghpvc/?username=jsscripts&color=blue](https://komarev.com/ghpvc/?username=jsscripts&color=blue)" />
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="[https://streak-stats.demolab.com?user=jsscripts&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=jsscripts&theme=tokyonight&hide_border=true)"/>
 </p>
 
 ---
