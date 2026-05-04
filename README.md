@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=jsscripts&color=blue"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=jsscripts&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=jsscripts&theme=tokyonight&hide_border=true)"/>
+  <img src="https://streak-stats.demolab.com?user=jsscripts&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
