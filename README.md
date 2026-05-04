@@ -67,7 +67,7 @@
 
 ---
 
-# ⭐ Projetos pessoais
+## ⭐ Projetos pessoais
 
 ### 💈 Sistema Web para Barbearia
 🔹 Login, sessão e agendamento  
@@ -85,7 +85,7 @@
 
 ---
 
-# ⚠️ Projetos desenvolvidos em ambiente profissional (IPT) não possuem código público devido a restrições de confidencialidade.
+## ⚠️ Projetos desenvolvidos em ambiente profissional (IPT) não possuem código público devido a restrições de confidencialidade.
 
 ### 📰 Portal de Notícias (ITS-Brasil)
 🔹 Desenvolvimento completo do sistema (site + painel administrativo)  
