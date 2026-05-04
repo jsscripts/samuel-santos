@@ -58,11 +58,11 @@
 ---
 
 ### 🛠️ Ferramentas
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)]
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-[![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge)](https://camo.githubusercontent.com/1dde505f55921882c50009102f3f3a9b43525dab44e285d0d66d0342c33e028a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245)
+[![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge)]
 ![DBeaver](https://img.shields.io/badge/DBeaver-blue?style=for-the-badge)
 
 ---
