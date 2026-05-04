@@ -62,7 +62,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge)
+[![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge)](https://camo.githubusercontent.com/1dde505f55921882c50009102f3f3a9b43525dab44e285d0d66d0342c33e028a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245)
 ![DBeaver](https://img.shields.io/badge/DBeaver-blue?style=for-the-badge)
 
 ---
