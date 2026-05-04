@@ -76,50 +76,86 @@
 
 ---
 
-# ⭐ Projetos pessoais
+<h1 align="center">Samuel Santos</h1>
 
-### 💈 Sistema Web para Barbearia
-🔹 Login, sessão e agendamento  
-🔹 Validação de horários em tempo real  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;C%23+.NET+%7C+Python;IA+%26+Vis%C3%A3o+Computacional;Building+real+solutions" />
+</p>
 
-📦 `HTML • CSS • JS • PHP • MySQL`  
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-santos-129a1423b">💼 LinkedIn</a>
+</p>
 
-### 🤖 Sistema de Reconhecimento Facial com IA
-
-🔹 Detecção e reconhecimento facial utilizando IA  
-🔹 Aplicação de visão computacional em contexto real  
-🔹 Desenvolvimento baseado em conceitos de Machine Learning  
-
-📦 `Python • OpenCV • YOLO • Roboflow • Colab`
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue" />
+</p>
 
 ---
 
-# ⚠️ Projetos desenvolvidos no IPT (código privado).
-
-### 📰 Portal de Notícias (ITS-Brasil)
-🔹 Desenvolvimento completo do sistema (site + painel administrativo)  
-🔹 CRUD de notícias com persistência em banco  
-🔹 Paginação e exibição dinâmica de conteúdo  
-
-📦 `PHP • JavaScript • MySQL`  
-
----
-
-### 🔗 API REST (.NET)
-🔹 Arquitetura em camadas (Controller, Service, DAO)  
-🔹 Autenticação e segurança com JWT  
-🔹 Integração com banco PostgreSQL  
-
-📦 `C# • ASP.NET • PostgreSQL`  
+<p align="center">
+  💻 Desenvolvedor Backend | C# • .NET • Python • APIs  
+  <br/>
+  🤖 Experiência com IA e Visão Computacional  
+  <br/>
+  🚀 Construindo soluções reais com foco em performance e escalabilidade
+</p>
 
 ---
 
-### 🤖 Web Scraper Automatizado
-🔹 Automação de navegação e extração de dados  
-🔹 Download de imagens e estruturação dos dados  
-🔹 Exportação para CSV  
+# 🧠 Tecnologias
 
-📦 `Python • Selenium • Scrapy`
+### 💻 Linguagens & Backend
+`C#` `.NET` `ASP.NET Core` `Python` `PHP` `JavaScript` `SQL` `JWT`
+
+### 🤖 IA & Visão Computacional
+`YOLO` `OpenCV` `Roboflow` `Google Colab`
+
+### 🛠️ Ferramentas & Bancos
+`MySQL` `PostgreSQL` `MongoDB` `Git` `Linux` `Insomnia` `DBeaver`
+
+---
+
+# 🚀 Projetos em Destaque
+
+### 🌟 Projetos Pessoais
+| Projeto | Descrição | Stacks | Links |
+| :--- | :--- | :--- | :--- |
+| **Barbariaria Web** | Sistema com login, agendamento e validação de horários em tempo real. | `PHP` `MySQL` `JS` | [Repo](#) |
+| **Reconhecimento Facial** | Detecção e reconhecimento facial com IA aplicada em contextos reais. | `Python` `YOLO` `OpenCV` | [Repo](#) |
+
+<br/>
+
+### 🏢 Projetos no IPT (Código Privado)
+| Projeto | Descrição | Stacks | Status |
+| :--- | :--- | :--- | :--- |
+| **Portal ITS-Brasil** | Sistema completo de notícias com painel administrativo e CRUD dinâmico. | `PHP` `JS` `MySQL` | 🔒 Privado |
+| **API REST Segura** | Arquitetura em camadas com foco em segurança, testes e gestão de dados. | `C#` `.NET` `PostgreSQL` `Insomnia` `DBeaver` | 🔒 Privado |
+| **Web Scraper** | Automação de navegação e extração massiva de dados para CSV. | `Python` `Selenium` `Scrapy` | 🔒 Privado |
+
+---
+
+# 💼 Experiência Profissional
+
+**🏢 Instituto de Pesquisas Tecnológicas (IPT)**
+*   Desenvolvimento Backend com **C# (.NET) e Python**.
+*   Implementação de soluções de **IA e Visão Computacional**.
+*   Construção de APIs REST com autenticação **JWT**.
+*   Gestão de bancos de dados **MySQL e PostgreSQL**.
+*   Automação de processos via **Web Scraping**.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  🚀 Building real solutions and evolving every day
+</p>
 
 # 💼 Experiência Profissional
 
